@@ -9,4 +9,5 @@
 
 
 
-Questa app è stata sviluppata durante il corso PHP , altra applicazione è la creazione di un block notes per applicare le operazioni basilari CRUD.
+Questa app è stata sviluppata durante il corso pratico di PHP .
+Il corso prevedeva anche la creazione di un app block notes per applicare le operazioni basilari CRUD; dove in un unica Homepage l'utente scriveva e cancellava elementi dal DB mysql.(Uso di PhpAdmin)
