@@ -11,3 +11,9 @@
 
 Questa app è stata sviluppata durante il corso pratico di PHP .
 Il corso prevedeva anche la creazione di un app block notes per applicare le operazioni basilari CRUD; dove in un unica Homepage l'utente scriveva e cancellava elementi dal DB mysql.(Uso di PhpAdmin)
+
+il corso è stato erogato da Udemy: 
+
+https://github.com/hidran/laravel8-udemy
+
+
